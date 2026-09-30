@@ -1,0 +1,7 @@
+# Optional local configuration. Copy this file to:
+# %LOCALAPPDATA%\LuckyUpdater\protected-paths.txt
+#
+# Add one folder per line. Replace these examples with folders on your own PC.
+# Lines starting with # are comments.
+# %USERPROFILE%\Documents\My Games
+# C:\Games\MyLibrary

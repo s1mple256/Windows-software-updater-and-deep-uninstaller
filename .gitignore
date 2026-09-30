@@ -1,0 +1,13 @@
+# Build output and local backups
+*.exe
+*.dll
+*.pdb
+*.bak
+bin/
+obj/
+.vs/
+
+# Machine-specific settings; never commit these
+protected-paths.txt
+protected-paths.local.txt
+
